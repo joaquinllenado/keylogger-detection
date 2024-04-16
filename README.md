@@ -4,4 +4,6 @@ pip install pandas
 
 pip install scikit-learn
 
-Current prediction rate ~97.7%
+pip install scapy
+
+Current prediction rate ~96.5%
