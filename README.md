@@ -1,15 +1,15 @@
 Before starting:
 
-pip install pandas
+1. pip install pandas
 
-pip install scikit-learn
+2. pip install scikit-learn
 
-pip install scapy
+3. pip install scapy
 
-Download dataset: https://www.kaggle.com/datasets/subhajournal/keylogger-detection/data
+4. Download dataset: https://www.kaggle.com/datasets/subhajournal/keylogger-detection/data
 
-Run malicious-software-detection to generate keylogger-detection-model
+5. Run malicious-software-detection to generate keylogger-detection-model
 
-Run app.py
+6. Run app.py
 
 Current prediction rate ~96.5%
